@@ -14,7 +14,13 @@
   --texto-suave: #000000;
   --fondo-seccion: #f0f0ea;
 }
-
+/* ── TIPOGRAFÍA DE TÍTULOS ── */
+h1, 
+h2, 
+h3, 
+.nav-logo {
+  font-family: 'Montserrat', sans-serif;
+}
 
 html {
   scroll-behavior: smooth;
