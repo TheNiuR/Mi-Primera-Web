@@ -6,12 +6,12 @@
 }
 
 :root {
-  --negro: #0a0a0a;
-  --blanco: #f5f5f0;
-  --gris-oscuro: #141414;
+  --negro: #000000df;
+  --blanco: #ffffff;
+  --gris-oscuro: #313131;
   --gris-medio: #2a2a2a;
-  --acento: #e8e000;
-  --texto-suave: #888;
+  --acento: #0fc12d;
+  --texto-suave: #000000;
   --fondo-seccion: #f0f0ea;
 }
 
