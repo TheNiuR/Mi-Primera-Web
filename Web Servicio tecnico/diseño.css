@@ -329,6 +329,7 @@ section h2 {
   outline: none;
   border-radius: 0;
   -webkit-appearance: none;
+  appearance: none;
   transition: border-color 0.2s;
 }
 
@@ -413,7 +414,6 @@ footer p:last-child {
   margin-top: 0.4rem;
 }
 
-/* ── RESPONSIVE ── */
 @media (max-width: 900px) {
   .servicios-grid {
     grid-template-columns: repeat(2, 1fr);
